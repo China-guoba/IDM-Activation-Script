@@ -1,4 +1,5 @@
 # IDM Activation Script
+破解激活IDM，建议直接选择方法二，下载项目ｚｉｐ到本地，解压后选择ｃｍｄ结尾的文件右键管理员运行，选择１，然后就可以了。
 An open-source tool to activate and reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
 
 # Disclaimer
